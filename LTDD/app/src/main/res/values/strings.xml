@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LTĐ</string>
+    <string name="True_button">True</string>
+    <string name="False_button">False</string>
+    <string name="True_ans">cau tra loi dung</string>
+    <string name="False_ans">cau tra loi sai</string>
+
+
+
+
+    <string name="Text_cauhoi1">1+2=3</string>
+    <string name="Text_cauhoi2">1+2=4</string>
+    <string name="Text_cauhoi3">1+2=5</string>
+    <string name="Text_cauhoi4">1+2=6</string>
+
+
+
+
+</resources>
